@@ -1,0 +1,22 @@
+.impar {
+    background-color: rgb(225, 94, 175);
+    font-family: Verdana, DejaVu Sans, sans-serif;
+    
+}
+
+.blue {
+    color: blue;
+    font-size: 36px;
+
+}
+
+#3 {
+    font-size: 24px;
+
+}
+
+.draw {
+    background-color: rgb(119, 230, 85);
+    font-size: 24px;
+    font-weight: bold;
+    }
